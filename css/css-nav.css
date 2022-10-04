@@ -10,6 +10,7 @@ border-color: black;
 
 color: rgb(249, 251, 253);
 text-transform: uppercase;
+   font-family: 'Roboto', sans-serif;
 }
 nav ul {
     display: flex;
