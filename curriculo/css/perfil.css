@@ -1,0 +1,31 @@
+.perfil-conteiner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    margin-top: 10px;
+}
+
+.perfil {
+    border-radius: 100%;
+
+    width: 10rem;
+}
+
+.perfil-texto {
+    color: aliceblue;
+    font-size: 2rem;
+    text-align: center;
+}
+@media screen and (max-width: 492px) {
+    .perfil-conteiner {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        margin-top: 146px;
+    }
+    
+}
