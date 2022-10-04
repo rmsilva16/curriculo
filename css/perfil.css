@@ -17,6 +17,7 @@
     color: aliceblue;
     font-size: 2rem;
     text-align: center;
+   font-family: 'Roboto', sans-serif;
 }
 @media screen and (max-width: 492px) {
     .perfil-conteiner {
